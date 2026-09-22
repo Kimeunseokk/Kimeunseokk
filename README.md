@@ -3,7 +3,9 @@
 Java와 Spring Boot 기반으로 백엔드 개발을 공부하고 있습니다.
 
 ## 기술스택
-Java, Spring Boot, JPA, MySQL, Redis
+언어 : Java
+프레임워크 : Spring Boot
+DB : MySQL
 
 
 
