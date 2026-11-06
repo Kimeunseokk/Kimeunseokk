@@ -10,5 +10,4 @@ Java와 Spring Boot 기반으로 백엔드 개발을 공부하고 있습니다.
 
 
 ## 연락처
-- Email: rpqhfls2whdk@gmail.com
-- Phone : 010-8120-0740
+- Email: kes0740@daum.net
