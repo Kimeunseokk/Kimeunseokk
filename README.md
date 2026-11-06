@@ -2,11 +2,11 @@
 
 Java와 Spring Boot 기반으로 백엔드 개발을 공부하고 있습니다.
 
-## 기술스택
-언어 : Java
-프레임워크 : Spring Boot
-DB : MySQL
+## 🛠️ 기술스택
 
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ## 연락처
